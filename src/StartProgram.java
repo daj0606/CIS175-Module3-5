@@ -1,3 +1,8 @@
+/**
+ * @author ${user} - djackson16
+ * CIS175 - Spring 2024
+ * 2/4/2024
+ */
 // changed line 56 from original "l.getId() + " : " + l.toString()" because it was returning "51 : model.ListItem@669d2b1b"
 import java.util.List;
 import java.util.Scanner;
